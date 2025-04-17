@@ -1,0 +1,27 @@
+{
+  "filmes": [
+    {
+      "titulo": "Filme Educativo 1",
+      "url": "https://www.exemplo.com/filmes/filme1.mp4",
+      "capa": "https://www.exemplo.com/imagens/filme1.jpg"
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Curso de Matemática",
+      "capa": "https://www.exemplo.com/imagens/curso_matematica.jpg",
+      "episodios": [
+        {
+          "titulo": "Aula 1 - Introdução",
+          "url": "https://www.exemplo.com/series/matematica/aula1.mp4",
+          "capa": "https://www.exemplo.com/imagens/aula1.jpg"
+        },
+        {
+          "titulo": "Aula 2 - Álgebra",
+          "url": "https://www.exemplo.com/series/matematica/aula2.mp4",
+          "capa": "https://www.exemplo.com/imagens/aula2.jpg"
+        }
+      ]
+    }
+  ]
+}
